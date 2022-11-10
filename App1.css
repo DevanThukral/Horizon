@@ -1,0 +1,23 @@
+
+
+
+
+  .skewBtn{
+    width: 180px;
+    height: 80px;
+    outline: none;
+    cursor: pointer;
+    background: none;
+    transition: .5s;
+    font-size: 24px;
+    border-radius: 5px;
+    font-family: "Lato",sans-serif;}
+
+
+    .skewBtn hover{
+      border: none;
+      color: white;
+      font-size: 28px;
+   transform:scale(1.1);
+  }
+  
